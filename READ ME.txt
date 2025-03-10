@@ -1,0 +1,9 @@
+Este projeto inclui 3 planilhas como banco de dados e explora as seguintes funções:
+
+- Linguagem de Definição de Dados (DDL)
+- Linguagem de Manipulação de Dados (DML)
+- Linguagem de Consulta de Dados (DQL)
+- Filtros e Condicionais
+- Agregações
+- Consultas em múltiplas tabelas
+- Consultas avançadas
